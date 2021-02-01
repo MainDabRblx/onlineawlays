@@ -1,7 +1,7 @@
 const discordBotkit = require("botkit-discord");
 
 const configuration = {
-  token: process.env.DISCORD_TOKEN
+  token: "Nzg0ODAzNjU5NzQ1NDYwMjI1.YBdQbg.qMMAinS8NSG0rsfBWknnwY7wWNY"
 };
 
 const discordBot = discordBotkit(configuration);
